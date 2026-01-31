@@ -212,7 +212,7 @@ diabetes-ai-system/
 ├── index.html              # Main application file
 ├── README.md               # Project documentation
 ├── LICENSE                 # MIT License
-├── CONTRIBUTING.md         # Contribution guidelines
+|
 │
 ├── assets/
 │   └── diabetes_data.csv   # Training dataset (768 samples)
@@ -272,7 +272,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE] file for details.
 
 ## ⚠️ Medical Disclaimer
 
