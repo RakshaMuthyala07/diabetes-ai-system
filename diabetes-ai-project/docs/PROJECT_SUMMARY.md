@@ -393,10 +393,10 @@ MIT License - Free to use, modify, and distribute
 ## 📞 Contact & Support
 
 ### Project Maintainer
-**[Your Name]**
-- GitHub: [@yourusername]
-- Email: your.email@example.com
-- LinkedIn: [Your Profile]
+**[Raksha Muthyala]**
+- GitHub: [RakshaMuthyala07]
+- Email: rakshamuthyala@gmail.com
+
 
 ### Getting Help
 - 📖 Check documentation
