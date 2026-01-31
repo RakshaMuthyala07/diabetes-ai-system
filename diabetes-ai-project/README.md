@@ -68,11 +68,20 @@ This project demonstrates the practical application of AI in healthcare, combini
 
 ## 🚀 Demo
 
-**Live Demo**: [Add your GitHub Pages link here after deployment]
+**Live Demo**: file:///C:/Users/raksh/Downloads/diabetes-dashboard.html
 
 ### Screenshots
 
-*Add screenshots of your dashboard here*
+<img width="1916" height="996" alt="image" src="https://github.com/user-attachments/assets/5ac56a5f-385d-44df-8458-ca6913c00224" />
+<img width="1897" height="993" alt="image" src="https://github.com/user-attachments/assets/647bb1b9-2028-4d89-ae43-b8b0a2065387" />
+<img width="1893" height="995" alt="image" src="https://github.com/user-attachments/assets/d7ca3530-e870-480e-b92b-5435e40528a2" />
+<img width="1893" height="993" alt="image" src="https://github.com/user-attachments/assets/aef7621a-f39b-43cc-8903-8a075814e5a8" />
+<img width="1894" height="1068" alt="image" src="https://github.com/user-attachments/assets/820dd798-8e87-403a-82b0-ea2b86bd7177" />
+<img width="1906" height="995" alt="image" src="https://github.com/user-attachments/assets/e384d925-d82d-491d-8216-f8e6e3875e84" />
+<img width="1918" height="996" alt="image" src="https://github.com/user-attachments/assets/bf78795f-5d14-4087-aabc-1194bd70a1d5" />
+<img width="1866" height="823" alt="image" src="https://github.com/user-attachments/assets/00c144e2-1e20-4d28-97c8-a5f0aee91b22" />
+<img width="1473" height="806" alt="image" src="https://github.com/user-attachments/assets/7f701d5b-b8bb-401a-8242-e8624e73e526" />
+
 
 ## 💻 Installation
 
@@ -85,7 +94,7 @@ This project demonstrates the practical application of AI in healthcare, combini
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/diabetes-ai-system.git
+   git clone https://github.com/RakshaMuthyala07/diabetes-ai-system.git
    cd diabetes-ai-system
    ```
 
@@ -276,11 +285,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Raksha Muthyala]**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@RakshaMuthyala07](https://github.com/RakshaMuthyala07)
+- Email: rakshamuthyala@gmail.com
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ## 🙏 Acknowledgments
@@ -288,7 +296,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Pima Indians Diabetes Database contributors
 - Chart.js team for excellent visualization library
 - The open-source community for inspiration and tools
-- [Add any mentors, teachers, or resources that helped you]
+
 
 ## 📈 Future Enhancements
 
