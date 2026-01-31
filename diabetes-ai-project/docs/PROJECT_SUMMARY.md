@@ -404,7 +404,7 @@ MIT License - Free to use, modify, and distribute
 - 💡 Suggest features via Discussions
 - 📧 Email for direct support
 
----
+
 
 ## 🙏 Acknowledgments
 
