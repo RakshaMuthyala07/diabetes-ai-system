@@ -227,8 +227,8 @@ diabetes-ai-project/
 │   └── diabetes_data.csv       # Training dataset (768 samples)
 │
 ├── docs/
-│   ├── SETUP_GUIDE.md          # Detailed setup instructions
-│   ├── GITHUB_SETUP.md         # GitHub deployment guide
+│  
+|
 │   ├── USER_MANUAL.md          # End-user documentation
 │   └── PROJECT_SUMMARY.md      # This file
 │
