@@ -1,4 +1,4 @@
-# 🏥 AI Diabetes Risk Intelligence System
+# AI Diabetes Risk Intelligence System
 
 > A premium, hospital-grade web application for predicting diabetes risk using advanced machine learning algorithms
 
@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?logo=chartdotjs&logoColor=white)
 
-## 📋 Table of Contents
+## Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -22,7 +22,7 @@
 - [License](#license)
 - [Contact](#contact)
 
-## 🎯 Overview
+## Overview
 
 The **AI Diabetes Risk Intelligence System** is a sophisticated web-based application that leverages machine learning to predict diabetes risk based on clinical parameters. Built with a focus on user experience and medical-grade accuracy, this system provides:
 
@@ -34,9 +34,9 @@ The **AI Diabetes Risk Intelligence System** is a sophisticated web-based applic
 
 This project demonstrates the practical application of AI in healthcare, combining data science with modern web development to create an accessible diagnostic tool.
 
-## ✨ Features
+##  Features
 
-### 🔬 Core Functionality
+### Core Functionality
 
 - **ML-Powered Predictions**: Advanced risk scoring algorithm trained on 768 clinical cases
 - **Interactive Dashboard**: Real-time visualization of diabetes risk metrics
@@ -44,7 +44,7 @@ This project demonstrates the practical application of AI in healthcare, combini
 - **Risk Categorization**: Automatic classification into Low, Moderate, or High risk levels
 - **History Tracking**: Complete log of all predictions with local storage
 
-### 🎨 User Interface
+###  User Interface
 
 - **Premium Design**: Dark, sophisticated interface with glassmorphism effects
 - **Smooth Animations**: Fade-in effects, hover states, and progress animations
@@ -52,21 +52,21 @@ This project demonstrates the practical application of AI in healthcare, combini
 - **Circular Progress Gauge**: Animated risk score visualization
 - **Multi-Page Navigation**: Dashboard, History, Analytics, and About sections
 
-### 📊 Visualizations
+###  Visualizations
 
 - **Feature Importance Chart**: Bar chart showing parameter contributions
 - **Risk Distribution**: Doughnut chart analyzing prediction patterns
 - **Performance Metrics**: Radar chart displaying model accuracy
 - **Real-time Stats**: Live counters for predictions and risk levels
 
-### 🏥 Health Features
+###  Health Features
 
 - **Smart Recommendations**: Context-aware health advice based on input parameters
 - **PDF Report Export**: Downloadable assessment reports
 - **Medical Disclaimers**: Appropriate warnings about consulting healthcare professionals
 - **Data Privacy**: All processing done locally in the browser
 
-## 🚀 Demo
+##  Demo
 
 **Live Demo**: file:///C:/Users/raksh/Downloads/diabetes-dashboard.html
 
@@ -83,7 +83,7 @@ This project demonstrates the practical application of AI in healthcare, combini
 <img width="1473" height="806" alt="image" src="https://github.com/user-attachments/assets/7f701d5b-b8bb-401a-8242-e8624e73e526" />
 
 
-## 💻 Installation
+##  Installation
 
 ### Prerequisites
 
@@ -124,7 +124,7 @@ This project demonstrates the practical application of AI in healthcare, combini
 
 That's it! No installation, no dependencies, no configuration needed.
 
-## 📖 Usage
+##  Usage
 
 ### Making a Prediction
 
@@ -160,7 +160,7 @@ That's it! No installation, no dependencies, no configuration needed.
 - View model performance metrics
 - Analyze trends in your data
 
-## 🧠 How It Works
+##  How It Works
 
 ### Machine Learning Model
 
@@ -258,23 +258,22 @@ Contributions are welcome! Here's how you can help:
 4. **Push to the branch** (`git push origin feature/AmazingFeature`)
 5. **Open a Pull Request**
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ### Ideas for Contribution
 
-- 🎨 UI/UX improvements
-- 📈 Additional visualizations
-- 🧪 Model accuracy improvements
-- 🌍 Multi-language support
-- ♿ Accessibility enhancements
-- 📱 Mobile app version
-- 🔒 Backend integration for data persistence
+-  UI/UX improvements
+- Additional visualizations
+-  Model accuracy improvements
+-  Multi-language support
+-  Accessibility enhancements
+-  Mobile app version
+-  Backend integration for data persistence
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE] file for details.
 
-## ⚠️ Medical Disclaimer
+##  Medical Disclaimer
 
 **IMPORTANT**: This application is designed for **educational and research purposes only**. It is NOT intended to replace professional medical advice, diagnosis, or treatment.
 
@@ -283,7 +282,7 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 - Do not delay seeking medical attention based on this tool
 - This is a demonstration project, not a certified medical device
 
-## 👨‍💻 Author
+## Author
 
 **[Raksha Muthyala]**
 
@@ -291,14 +290,14 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 - Email: rakshamuthyala@gmail.com
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Pima Indians Diabetes Database contributors
 - Chart.js team for excellent visualization library
 - The open-source community for inspiration and tools
 
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 - [ ] Integration with real medical databases
 - [ ] Advanced ML models (Neural Networks, XGBoost)
@@ -309,10 +308,9 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 - [ ] Real-time monitoring dashboard
 - [ ] Integration with wearable devices
 
-## 🌟 Star History
+## Star History
 
 If you find this project useful, please consider giving it a star! ⭐
 
 ---
 
-**Built with ❤️ for advancing healthcare through AI**
